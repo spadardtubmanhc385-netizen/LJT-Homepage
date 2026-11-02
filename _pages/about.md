@@ -9,7 +9,7 @@ redirect_from:
 
 ## Personal Details
 
-I am a First-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), led by Professor Junxian He, at the Hong Kong University of Science and Technology (HKUST). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree (2020-2024).
+I am a First-year PhD candidate at the HKUST NLP Group, led by Professor Junxian He, at the Hong Kong University of Science and Technology (HKUST). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree (2020-2024).
 
 My research focuses on natural language processing and machine learning. Specifically, my research interests include:
 - **LLM Reasoning and Reinforcement Learning**
@@ -69,12 +69,12 @@ I am supervised by Professor Junxian He at HKUST NLP Group, who also previously 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
    - **Authors**: **Junteng Liu** (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
    - **Venue**: Published on Arxiv (2025)
-   - **Code Repository**: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+   - **Code Repository**: Vision4Chart
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024)
    - **Authors**: **Junteng Liu** (First author), Shiqi Chen, Yu Cheng, Junxian He
    - **Venue**: Published at EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing, 2024)
-   - **Code Repository**: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+   - **Code Repository**: Universal_Truthfulness_Hyperplane
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024)
    - **Authors**: Shiqi Chen, Miao Xiong, **Junteng Liu** (Co-author), Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
@@ -97,6 +97,6 @@ I am supervised by Professor Junxian He at HKUST NLP Group, who also previously 
 ## Contact Information
 
 - **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub**: [Vicent0205](https://github.com/Vicent0205) (`https://github.com/Vicent0205`)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar**: [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710) (`@junteng88716710`)
+- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
